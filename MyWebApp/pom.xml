@@ -26,12 +26,6 @@
     <artifactId>headless-chrome</artifactId>
     <version>0.3.6</version>
 </dependency>
-    <!-- https://mvnrepository.com/artifact/gradle.plugin.eu.leontebbens.gradle/chromedriver-updater-plugin -->
-<dependency>
-    <groupId>gradle.plugin.eu.leontebbens.gradle</groupId>
-    <artifactId>chromedriver-updater-plugin</artifactId>
-    <version>1.7.0</version>
-</dependency>
 </dependencies>
   <build>
     <finalName>MyWebApp</finalName>
